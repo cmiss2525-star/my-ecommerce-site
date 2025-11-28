@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
+    title: `MissChan Supplier`,
     siteUrl: `https://jamm.matter.design`,
   },
   plugins: [],
